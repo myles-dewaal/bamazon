@@ -3,16 +3,16 @@ This is a fun little demo on how to use a databas and how to update it. This use
 
 To quit the application one must simple type "Q".
 
-![Quit](./images/quit)
+![Quit](/images/quit.png)
 
 If you search for an item all you need to do is type in the ID for that item.
 
-![First-Screen](./images/first-screen)
+![First-Screen](/images/first-screen.png)
 
 Once you select the item you will be able to select how many you would like.
 
-![Purchase](./images/purchase)
+![Purchase](/images/purchase.png)
 
 Fell free to continue till we run out of stock!
 
-![Quantity](./images/quantity)
+![Quantity](/images/quantity.png)
